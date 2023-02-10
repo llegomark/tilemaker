@@ -1,0 +1,25 @@
+Todos
+- [x] reset git and push a new repo
+- [x] works on mobile
+- [x] loading indicator
+- [x] download button
+- [x] page starts with a tile and a placeholder prompt
+- [x] make it look like an OS
+- [x] mention how you can use it on phones, watch faces, desktops. even your home!
+- [x] make sure github links are all setup
+- [?] it's key there's an obvious CTA
+- [?] prefilled text, instant demo with minimal thought
+- [x] add more examples!
+- [x] add social share / og tags -> JUST UPDATE THE OG LINK!
+
+stretch
+- [] down the line add a way to see others wallpapers. im close on this
+- [] would be really nice if you could share your wallpaper... one way to do this would be to add the URL to the param
+
+launch
+- [x] setup preview image tags
+- [ ] give it a name
+- [] get a domain!
+    - available on a quick look:
+        - tiled.ai
+- [] open source the repo
